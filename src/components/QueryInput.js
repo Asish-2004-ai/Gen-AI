@@ -45,7 +45,7 @@ const QueryInput = ({ darkMode }) => {
           darkMode ? "bg-gray-700 hover:bg-gray-600 text-white" : "bg-blue-500 hover:bg-blue-600 text-white"
         }`}
       >
-        🚀 Submit Query
+         Submit Query
       </button>
 
       {/* Query Suggestions */}
